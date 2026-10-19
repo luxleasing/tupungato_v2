@@ -100,7 +100,7 @@ window.LUX_CONFIG = {
         { etiqueta: 'Alimentación', campos: ['alimentaci'] }
       ],
 fichaSecundaria: [
-    { etiqueta: 'N° Medidor',     campos: ['n_medidor'] },
+    
     { etiqueta: 'Elemento V',     campos: ['elemento_v'] },
     { etiqueta: 'Detalle',        campos: ['detalle'] },
     { etiqueta: 'Jurisdicción',   campos: ['jurisdicci'] },
